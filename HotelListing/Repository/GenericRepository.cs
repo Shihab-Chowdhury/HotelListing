@@ -88,5 +88,6 @@ namespace HotelListing.Repository
             _db.Attach(entity);
             _context.Entry(entity).State = EntityState.Modified;
         }
+
     }
 }
