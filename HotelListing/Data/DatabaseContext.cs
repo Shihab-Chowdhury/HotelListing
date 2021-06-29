@@ -49,7 +49,7 @@ namespace HotelListing.Data
                     Id = 1,
                     Name = "Sandals Resort and Spa",
                     Address = "Negril",
-                    CountryId = 2,
+                    CountryId = 1,
                     Rating = 4.5
                 },
                 new Hotel
@@ -57,7 +57,7 @@ namespace HotelListing.Data
                     Id = 2,
                     Name = "Comfort Suites",
                     Address = "Geroge Town",
-                    CountryId = 3,
+                    CountryId = 2,
                     Rating = 4.3
                 },
                 new Hotel
@@ -65,7 +65,7 @@ namespace HotelListing.Data
                     Id = 3,
                     Name = "Grand Palldium",
                     Address = "Nassua",
-                    CountryId = 2,
+                    CountryId = 3,
                     Rating = 4
                 }
                 );
