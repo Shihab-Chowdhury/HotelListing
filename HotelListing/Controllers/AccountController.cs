@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿using AutoMapper;   
 using HotelListing.Data;
 using HotelListing.Models;
 using HotelListing.Services;

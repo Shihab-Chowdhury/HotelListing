@@ -1,3 +1,4 @@
+using AutoMapper;
 using HotelListing.Configurations;
 using HotelListing.Data;
 using HotelListing.IRepository;
