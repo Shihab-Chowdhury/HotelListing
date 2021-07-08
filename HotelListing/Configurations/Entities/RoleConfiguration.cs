@@ -22,6 +22,11 @@ namespace HotelListing.Configurations.Entities
                 {
                     Name = "Administrator",
                     NormalizedName = "ADMINISTRATOR"
+                },
+                new IdentityRole
+                {
+                    Name = "Patient",
+                    NormalizedName = "PATIENT"
                 }
             );
         }
